@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Android Studio/Foodie/app/src/main/res/font/jacques_francois.xml" value="0.1760883690708252" />
+        <entry key="..\:/Android Studio/Foodie/app/src/main/res/layout-w936dp/activity_veggies_detail.xml" value="0.264" />
+        <entry key="..\:/Android Studio/Foodie/app/src/main/res/layout-w936dp/activity_veggies_details.xml" value="0.1" />
+        <entry key="..\:/Android Studio/Foodie/app/src/main/res/layout/activity_detailed.xml" value="0.264" />
+        <entry key="..\:/Android Studio/Foodie/app/src/main/res/layout/activity_main.xml" value="0.15394736842105264" />
+        <entry key="..\:/Android Studio/Foodie/app/src/main/res/layout/activity_otp_verification.xml" value="0.15394736842105264" />
+        <entry key="..\:/Android Studio/Foodie/app/src/main/res/layout/activity_resturants_details.xml" value="0.1" />
+        <entry key="..\:/Android Studio/Foodie/app/src/main/res/layout/activity_signup.xml" value="0.15394736842105264" />
+        <entry key="..\:/Android Studio/Foodie/app/src/main/res/layout/activity_veggies.xml" value="0.1" />
+        <entry key="..\:/Android Studio/Foodie/app/src/main/res/layout/activity_veggies_details.xml" value="0.1" />
+        <entry key="..\:/Android Studio/Foodie/app/src/main/res/layout/allmenusample.xml" value="0.15394736842105264" />
+        <entry key="..\:/Android Studio/Foodie/app/src/main/res/layout/cart_view_sample.xml" value="0.15394736842105264" />
+        <entry key="..\:/Android Studio/Foodie/app/src/main/res/layout/fragment_bottom_sheet.xml" value="0.1" />
+        <entry key="..\:/Android Studio/Foodie/app/src/main/res/layout/fragment_cart.xml" value="0.2" />
+        <entry key="..\:/Android Studio/Foodie/app/src/main/res/layout/fragment_changepassword_bs.xml" value="0.15394736842105264" />
+        <entry key="..\:/Android Studio/Foodie/app/src/main/res/layout/fragment_details.xml" value="0.25" />
+        <entry key="..\:/Android Studio/Foodie/app/src/main/res/layout/fragment_editprofile_b_s.xml" value="0.15394736842105264" />
+        <entry key="..\:/Android Studio/Foodie/app/src/main/res/layout/fragment_home.xml" value="0.15394736842105264" />
+        <entry key="..\:/Android Studio/Foodie/app/src/main/res/layout/fragment_menu.xml" value="0.15394736842105264" />
+        <entry key="..\:/Android Studio/Foodie/app/src/main/res/layout/fragment_profile.xml" value="0.15394736842105264" />
+        <entry key="..\:/Android Studio/Foodie/app/src/main/res/layout/fragment_shop.xml" value="0.15394736842105264" />
+        <entry key="..\:/Android Studio/Foodie/app/src/main/res/layout/fragment_veggie.xml" value="0.1" />
+        <entry key="..\:/Android Studio/Foodie/app/src/main/res/layout/fragment_veggiesadd.xml" value="0.15394736842105264" />
+        <entry key="..\:/Android Studio/Foodie/app/src/main/res/layout/veggiessample.xml" value="0.264" />
+        <entry key="..\:/Project/Foodie/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.17374914324880056" />
+        <entry key="..\:/Project/Foodie/app/src/main/res/drawable/addtocart.xml" value="0.17374914324880056" />
+        <entry key="..\:/Project/Foodie/app/src/main/res/drawable/bg_shape.xml" value="0.1525" />
+        <entry key="..\:/Project/Foodie/app/src/main/res/drawable/bgnoconnection.xml" value="0.136" />
+        <entry key="..\:/Project/Foodie/app/src/main/res/drawable/bottomsheetbg.xml" value="0.152" />
+        <entry key="..\:/Project/Foodie/app/src/main/res/drawable/btn_oval.xml" value="0.17374914324880056" />
+        <entry key="..\:/Project/Foodie/app/src/main/res/drawable/btn_radient.xml" value="0.17604166666666668" />
+        <entry key="..\:/Project/Foodie/app/src/main/res/drawable/categories_backgroung.xml" value="0.17374914324880056" />
+        <entry key="..\:/Project/Foodie/app/src/main/res/drawable/categories_backgroung1.xml" value="0.17374914324880056" />
+        <entry key="..\:/Project/Foodie/app/src/main/res/drawable/categories_backgroung2.xml" value="0.17374914324880056" />
+        <entry key="..\:/Project/Foodie/app/src/main/res/drawable/categories_backgroung3.xml" value="0.17374914324880056" />
+        <entry key="..\:/Project/Foodie/app/src/main/res/drawable/categories_backgroung4.xml" value="0.17374914324880056" />
+        <entry key="..\:/Project/Foodie/app/src/main/res/drawable/categories_backgroung5.xml" value="0.17374914324880056" />
+        <entry key="..\:/Project/Foodie/app/src/main/res/drawable/custom_btn.xml" value="0.17374914324880056" />
+        <entry key="..\:/Project/Foodie/app/src/main/res/drawable/custom_email.xml" value="0.17374914324880056" />
+        <entry key="..\:/Project/Foodie/app/src/main/res/drawable/custom_input.xml" value="0.17604166666666668" />
+        <entry key="..\:/Project/Foodie/app/src/main/res/drawable/custom_name.xml" value="0.17374914324880056" />
+        <entry key="..\:/Project/Foodie/app/src/main/res/drawable/custom_password.xml" value="0.17374914324880056" />
+        <entry key="..\:/Project/Foodie/app/src/main/res/drawable/custom_phone.xml" value="0.903125" />
+        <entry key="..\:/Project/Foodie/app/src/main/res/drawable/detailbg.xml" value="0.1305" />
+        <entry key="..\:/Project/Foodie/app/src/main/res/drawable/ic_baseline_email_24.xml" value="0.17374914324880056" />
+        <entry key="..\:/Project/Foodie/app/src/main/res/drawable/ic_baseline_email_25.xml" value="0.17374914324880056" />
+        <entry key="..\:/Project/Foodie/app/src/main/res/drawable/ic_baseline_lock_24.xml" value="0.17374914324880056" />
+        <entry key="..\:/Project/Foodie/app/src/main/res/drawable/ic_baseline_lock_25.xml" value="0.17374914324880056" />
+        <entry key="..\:/Project/Foodie/app/src/main/res/drawable/ic_baseline_search_24.xml" value="0.17374914324880056" />
+        <entry key="..\:/Project/Foodie/app/src/main/res/drawable/ic_baseline_search_25.xml" value="0.17374914324880056" />
+        <entry key="..\:/Project/Foodie/app/src/main/res/drawable/ic_baseline_shop_24.xml" value="0.152" />
+        <entry key="..\:/Project/Foodie/app/src/main/res/drawable/ic_baseline_supervised_user_circle_24.xml" value="0.17374914324880056" />
+        <entry key="..\:/Project/Foodie/app/src/main/res/drawable/ic_cart.xml" value="0.152" />
+        <entry key="..\:/Project/Foodie/app/src/main/res/drawable/ic_home.xml" value="0.152" />
+        <entry key="..\:/Project/Foodie/app/src/main/res/drawable/ic_launcher_background.xml" value="0.17374914324880056" />
+        <entry key="..\:/Project/Foodie/app/src/main/res/drawable/input_gradient.xml" value="0.17604166666666668" />
+        <entry key="..\:/Project/Foodie/app/src/main/res/drawable/item_selector.xml" value="0.17374914324880056" />
+        <entry key="..\:/Project/Foodie/app/src/main/res/drawable/login_btn.xml" value="0.17374914324880056" />
+        <entry key="..\:/Project/Foodie/app/src/main/res/drawable/noconnection.xml" value="0.16875" />
+        <entry key="..\:/Project/Foodie/app/src/main/res/drawable/resturantsample.xml" value="0.1525" />
+        <entry key="..\:/Project/Foodie/app/src/main/res/drawable/round_corner.xml" value="0.17374914324880056" />
+        <entry key="..\:/Project/Foodie/app/src/main/res/drawable/search_gradient.xml" value="0.17374914324880056" />
+        <entry key="..\:/Project/Foodie/app/src/main/res/drawable/splashbg_gradient.xml" value="0.2640625" />
+        <entry key="..\:/Project/Foodie/app/src/main/res/drawable/svdesign.xml" value="0.17374914324880056" />
+        <entry key="..\:/Project/Foodie/app/src/main/res/drawable/txtfield_gradient.xml" value="0.17604166666666668" />
+        <entry key="..\:/Project/Foodie/app/src/main/res/layout/activity_burger.xml" value="0.264" />
+        <entry key="..\:/Project/Foodie/app/src/main/res/layout/activity_cake.xml" value="0.15394736842105264" />
+        <entry key="..\:/Project/Foodie/app/src/main/res/layout/activity_categories_view.xml" value="0.1625" />
+        <entry key="..\:/Project/Foodie/app/src/main/res/layout/activity_click_category.xml" value="0.15394736842105264" />
+        <entry key="..\:/Project/Foodie/app/src/main/res/layout/activity_detail.xml" value="0.2" />
+        <entry key="..\:/Project/Foodie/app/src/main/res/layout/activity_detailed.xml" value="0.176" />
+        <entry key="..\:/Project/Foodie/app/src/main/res/layout/activity_drink.xml" value="0.15394736842105264" />
+        <entry key="..\:/Project/Foodie/app/src/main/res/layout/activity_fries.xml" value="0.15394736842105264" />
+        <entry key="..\:/Project/Foodie/app/src/main/res/layout/activity_help.xml" value="0.2" />
+        <entry key="..\:/Project/Foodie/app/src/main/res/layout/activity_login.xml" value="0.176" />
+        <entry key="..\:/Project/Foodie/app/src/main/res/layout/activity_main.xml" value="0.176" />
+        <entry key="..\:/Project/Foodie/app/src/main/res/layout/activity_nonveg.xml" value="0.15394736842105264" />
+        <entry key="..\:/Project/Foodie/app/src/main/res/layout/activity_otp_verification.xml" value="0.2" />
+        <entry key="..\:/Project/Foodie/app/src/main/res/layout/activity_pizza.xml" value="0.2" />
+        <entry key="..\:/Project/Foodie/app/src/main/res/layout/activity_pizza_details.xml" value="0.15394736842105264" />
+        <entry key="..\:/Project/Foodie/app/src/main/res/layout/activity_profile.xml" value="0.1625" />
+        <entry key="..\:/Project/Foodie/app/src/main/res/layout/activity_resturant_sample.xml" value="0.2" />
+        <entry key="..\:/Project/Foodie/app/src/main/res/layout/activity_resturants_details.xml" value="0.16" />
+        <entry key="..\:/Project/Foodie/app/src/main/res/layout/activity_signup.xml" value="0.176" />
+        <entry key="..\:/Project/Foodie/app/src/main/res/layout/activity_splash_screen.xml" value="0.24375" />
+        <entry key="..\:/Project/Foodie/app/src/main/res/layout/activity_takenumber.xml" value="0.15394736842105264" />
+        <entry key="..\:/Project/Foodie/app/src/main/res/layout/activity_testnumber.xml" value="0.15394736842105264" />
+        <entry key="..\:/Project/Foodie/app/src/main/res/layout/activity_veg.xml" value="0.15394736842105264" />
+        <entry key="..\:/Project/Foodie/app/src/main/res/layout/activity_veggies.xml" value="0.15394736842105264" />
+        <entry key="..\:/Project/Foodie/app/src/main/res/layout/allmenusample.xml" value="0.264" />
+        <entry key="..\:/Project/Foodie/app/src/main/res/layout/cart_view_sample.xml" value="0.2" />
+        <entry key="..\:/Project/Foodie/app/src/main/res/layout/cat_view.xml" value="0.1625" />
+        <entry key="..\:/Project/Foodie/app/src/main/res/layout/category_view_sample.xml" value="0.264" />
+        <entry key="..\:/Project/Foodie/app/src/main/res/layout/categoryclick.xml" value="0.15394736842105264" />
+        <entry key="..\:/Project/Foodie/app/src/main/res/layout/content_scrolling.xml" value="0.1625" />
+        <entry key="..\:/Project/Foodie/app/src/main/res/layout/fragment_bottom_sheet.xml" value="0.264" />
+        <entry key="..\:/Project/Foodie/app/src/main/res/layout/fragment_cart.xml" value="0.1625" />
+        <entry key="..\:/Project/Foodie/app/src/main/res/layout/fragment_changepassword_b_s.xml" value="0.15394736842105264" />
+        <entry key="..\:/Project/Foodie/app/src/main/res/layout/fragment_changepassword_bs.xml" value="0.152" />
+        <entry key="..\:/Project/Foodie/app/src/main/res/layout/fragment_details.xml" value="0.2" />
+        <entry key="..\:/Project/Foodie/app/src/main/res/layout/fragment_editprofile_b_s.xml" value="0.15394736842105264" />
+        <entry key="..\:/Project/Foodie/app/src/main/res/layout/fragment_help_b_s.xml" value="0.176" />
+        <entry key="..\:/Project/Foodie/app/src/main/res/layout/fragment_home.xml" value="0.264" />
+        <entry key="..\:/Project/Foodie/app/src/main/res/layout/fragment_menu.xml" value="0.2" />
+        <entry key="..\:/Project/Foodie/app/src/main/res/layout/fragment_popular.xml" value="0.15394736842105264" />
+        <entry key="..\:/Project/Foodie/app/src/main/res/layout/fragment_profile.xml" value="0.176" />
+        <entry key="..\:/Project/Foodie/app/src/main/res/layout/fragment_shop.xml" value="0.2" />
+        <entry key="..\:/Project/Foodie/app/src/main/res/layout/fragment_support.xml" value="0.176" />
+        <entry key="..\:/Project/Foodie/app/src/main/res/layout/most_order_sample.xml" value="0.1625" />
+        <entry key="..\:/Project/Foodie/app/src/main/res/layout/mostorder_sample.xml" value="0.2" />
+        <entry key="..\:/Project/Foodie/app/src/main/res/layout/no_internet.xml" value="0.1625" />
+        <entry key="..\:/Project/Foodie/app/src/main/res/layout/pizza_sample.xml" value="0.1625" />
+        <entry key="..\:/Project/Foodie/app/src/main/res/layout/supportholder.xml" value="0.264" />
+        <entry key="..\:/Project/Foodie/app/src/main/res/layout/test.xml" value="0.15394736842105264" />
+        <entry key="..\:/Project/Foodie/app/src/main/res/layout/tmp.xml" value="0.1625" />
+        <entry key="..\:/Project/Foodie/app/src/main/res/layout/userholder.xml" value="0.4" />
+        <entry key="..\:/Project/Foodie/app/src/main/res/layout/veggiessample.xml" value="0.2" />
+        <entry key="..\:/Project/Foodie/app/src/main/res/menu/item_menu.xml" value="0.1625" />
+        <entry key="..\:/Project/Foodie/app/src/main/res/menu/menu.xml" value="0.1625" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
